@@ -47,7 +47,12 @@
 ![image](https://github.com/user-attachments/assets/671f926d-444c-463e-8b51-d11fa80e533f)
 
 - Colar o código disponível nesse repositório junto com os componentes
-- Não é necessário mudar nada 
+- Não é necessário mudar nada
+
+### HiveMQ
+
+-Abrir o link abaixo e clicar em conectar, vai ter o Host e o TCP Port.
+https://www.mqtt-dashboard.com 
 
 ### Node-RED
 
